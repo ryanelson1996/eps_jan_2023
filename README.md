@@ -1,21 +1,18 @@
 # Additional materials for EPS poster presentation, January 2023
 Thank you for taking the time to view our poster and for following the link to the supplementary materials.
 
-testing testing 1 2 3
-
 ## PCA space demonstrations
 These animations depict the first 3 dimension of a face space constructed using principal component analysis (PCA). At the centre of space is the average face. Scaling along each of the components we can see how the face changes in shape and texture from average, with increasing distance from the average magnifying this difference. The ‘high_caric’ version shows how faces can become heavily caricatured simply by increasing the scaling factor applied to the weights on each component.
 
 Moderate caricature level:
-
-https://user-images.githubusercontent.com/58479570/207362995-19e038c5-d1b6-4bc7-97d9-8edf872ea094.mp4
 
 <video src="https://user-images.githubusercontent.com/58479570/207362995-19e038c5-d1b6-4bc7-97d9-8edf872ea094.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 High caricature level:
 
-https://user-images.githubusercontent.com/58479570/207363667-3d188872-7cd5-4f3d-98f5-5e08361fa48a.mp4
+<video src="https://user-images.githubusercontent.com/58479570/207363667-3d188872-7cd5-4f3d-98f5-5e08361fa48a.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Example stimulus animation in behavioural study
 The video shows an example of one animation shown to the participant at the start of a trial in the behavioural experiment. On each trial one principal component was manipulated. The face starts close to average, is heavily caricatured, and then returns to average. The maximal amount of caricaturing varies across trials, so on some trials the face will become slightly more caricatured that on other trials. The aim of these animations is to show the full range of caricaturing for the trial. This also serves to pre-expose participants with heavily caricatured stimuli before the fMRI scans. 
@@ -28,32 +25,42 @@ https://user-images.githubusercontent.com/58479570/207365431-cfcc8633-9742-4597-
 ## Supplementary figures
 
 <br/>
-
-![Creating_Stimuli_DevVecs](https://user-images.githubusercontent.com/58479570/207366475-7a87c35a-c9e8-4cf4-aa2d-cd1aac6c413b.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/207366475-7a87c35a-c9e8-4cf4-aa2d-cd1aac6c413b.jpg" width="700">
+<p/>
 
 **Supplementary Figure 1.** Creating stimuli by adding deviation vectors to the origin of face space. Stimuli were created by adding texture and shape deviations to the image corresponding to the origin of the PCA-based face space. The texture deviation stores how much of each RGB channel is to be added to the average face for each pixel. Note that for easier visualisation the RGB changes have been exaggerated here. The x-y warp fields contain the horizontal (x) and vertical (y) pixel displacements necessary to distort the average face shape. Lighter areas show leftward and upward displacements, while darker areas show rightward and downward displacements.  
 
 <br/>
 
-![Group_Naturalness_Boundaries_1Col](https://user-images.githubusercontent.com/58479570/207366906-09066611-0fe8-4670-b27d-66cb00bfcfb2.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/207366906-09066611-0fe8-4670-b27d-66cb00bfcfb2.jpg" width="500">
+<p/>
 
 **Supplementary Figure 2.** Group average naturalness boundaries. Stimuli representing the average transition point for the first seven participants between natural, physically plausible and unnatural, physically implausible. Rows, two directions (sign) in PCA space for each gender. Columns, five principal components scaled according to the transition points. Numbers, average transition point in terms of the number of standard deviations in PCA space (with respect to the input data) along the given component. Numbers in parentheses, the between-subjects standard deviation from the behavioural results.  
 
 <br/>
 
-![localiser_stimuli](https://user-images.githubusercontent.com/58479570/207367476-f94a8adf-e304-435b-b9f7-efde41fb43c1.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/207367476-f94a8adf-e304-435b-b9f7-efde41fb43c1.jpg" width="500">
+<p/>
 
 **Supplementary Figure 3.** Example stimuli for the localiser scan showing faces, objects, manmade scenes and natural scenes. Manmade and natural scenes formed one block type encompassing scenes as a whole.
 
+
 <br/>
 
-![Defining_FFA_Ventral_2Col](https://user-images.githubusercontent.com/58479570/207367638-4ba457d8-7915-45d3-bc52-8b64398b7d36.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/207367638-4ba457d8-7915-45d3-bc52-8b64398b7d36.jpg" width="700">
+<p/>
 
 **Supplementary Figure 4.** Defining the FFA in all participants. The two leftmost images depict the current view, with images taken from underneath the ventral surface. The left and right image of each pair show the left and right hemispheres respectively. The images S1-S9 show the FFA definition in each participant (the region surrounded by the black border). The statistical maps show the face-selective regions defined by the contrast faces > objects + scenes that survived FWE correction. Maps show the z-values of the contrasts.  
 
 <br/>
 
-![violin_plots](https://user-images.githubusercontent.com/58479570/207368151-d2c2bd99-0301-4467-a021-f701dcd09e25.JPG)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/207368151-d2c2bd99-0301-4467-a021-f701dcd09e25.JPG" width="700">
+<p/>
 
 **Supplementary Figure 5.** Violin plots to show the distribution of responses to faces (red), objects
 (blue) and scenes (green) compared to baseline (t-value of the contrast). (A-C) The responses in
