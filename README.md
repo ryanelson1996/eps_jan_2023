@@ -8,6 +8,9 @@ Moderate caricature level:
 
 https://user-images.githubusercontent.com/58479570/207362995-19e038c5-d1b6-4bc7-97d9-8edf872ea094.mp4
 
+<video src="https://user-images.githubusercontent.com/58479570/207362995-19e038c5-d1b6-4bc7-97d9-8edf872ea094.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 High caricature level:
 
 https://user-images.githubusercontent.com/58479570/207363667-3d188872-7cd5-4f3d-98f5-5e08361fa48a.mp4
