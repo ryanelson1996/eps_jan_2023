@@ -1,9 +1,6 @@
 # Additional materials for EPS poster presentation, January 2023
 Thank you for taking the time to view our poster and for following the link to the supplementary materials.
 
-## Link to dropbox
-Click [here](https://www.dropbox.com/sh/95ixh2sxbzcvkbr/AABA4FTgD_nGXWxjMqFttOpHa?dl=0) to access the supplementary materials.
-
 ## PCA space demonstrations
 These animations depict the first 3 dimension of a face space constructed using principal component analysis (PCA). At the centre of space is the average face. Scaling along each of the components we can see how the face changes in shape and texture from average, with increasing distance from the average magnifying this difference. The ‘high_caric’ version shows how faces can become heavily caricatured simply by increasing the scaling factor applied to the weights on each component.
 
