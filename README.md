@@ -27,6 +27,7 @@ The video shows an example of one animation shown to the participant at the star
 ## Supplementary figures
 
 <br/>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207366475-7a87c35a-c9e8-4cf4-aa2d-cd1aac6c413b.jpg" width="700">
 <p/>
