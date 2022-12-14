@@ -77,11 +77,11 @@ responded significantly in more than one of these contrasts were excluded.
 
 ## Contact  
 
-Follow me on twitter [@Ryan_J_Elson](https://twitter.com/Ryan_J_Elson)  
+Twitter: [@Ryan_J_Elson](https://twitter.com/Ryan_J_Elson)  
 
 Email: [ryan.elson@nottingham.ac.uk](ryan.elson@nottingham.ac.uk)  
 
-
+<br>
 
 ## References  
 Bao, P., She, L., McGill, M., & Tsao, D. Y. (2020). A map of object space in primate inferotemporal cortex. Nature, 583(7814), 103-108. [DOI](https://doi.org/10.1038/s41586-020-2350-5)  
