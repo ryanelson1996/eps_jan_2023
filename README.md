@@ -74,7 +74,7 @@ responded significantly in more than one of these contrasts were excluded.
 
 
 
-## Contact
+## Contact  
 
 Follow me on twitter [@Ryan_J_Elson](https://twitter.com/Ryan_J_Elson)  
 
@@ -82,7 +82,7 @@ Email: ryan.elson@nottingham.ac.uk
 
 
 
-## References
+## References  
 Bao, P., She, L., McGill, M., & Tsao, D. Y. (2020). A map of object space in primate inferotemporal cortex. Nature, 583(7814), 103-108. https://doi.org/10.1038/s41586-020-2350-5  
 
 Carlin, J. D., & Kriegeskorte, N. (2017). Adjudicating between face-coding models with individual-face fMRI responses. PLoS computational biology, 13(7), e1005604. https://doi.org/10.1371/journal.pcbi.1005604  
