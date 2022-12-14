@@ -28,7 +28,7 @@ The video shows an example of one animation shown to the participant at the star
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207366475-7a87c35a-c9e8-4cf4-aa2d-cd1aac6c413b.jpg" width="700">
-<p/>
+</p>
 
 __Supplementary Figure 1__ Creating stimuli by adding deviation vectors to the origin of face space. Stimuli were created by adding texture and shape deviations to the image corresponding to the origin of the PCA-based face space. The texture deviation stores how much of each RGB channel is to be added to the average face for each pixel. Note that for easier visualisation the RGB changes have been exaggerated here. The x-y warp fields contain the horizontal (x) and vertical (y) pixel displacements necessary to distort the average face shape. Lighter areas show leftward and upward displacements, while darker areas show rightward and downward displacements.  
 
@@ -36,7 +36,7 @@ __Supplementary Figure 1__ Creating stimuli by adding deviation vectors to the o
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207366906-09066611-0fe8-4670-b27d-66cb00bfcfb2.jpg" width="500">
-<p/>
+</p>
 
 __Supplementary Figure 2__ Group average naturalness boundaries. Stimuli representing the average transition point for the first seven participants between natural, physically plausible and unnatural, physically implausible. Rows, two directions (sign) in PCA space for each gender. Columns, five principal components scaled according to the transition points. Numbers, average transition point in terms of the number of standard deviations in PCA space (with respect to the input data) along the given component. Numbers in parentheses, the between-subjects standard deviation from the behavioural results.  
 
@@ -44,7 +44,7 @@ __Supplementary Figure 2__ Group average naturalness boundaries. Stimuli represe
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207367476-f94a8adf-e304-435b-b9f7-efde41fb43c1.jpg" width="500">
-<p/>
+</p>
 
 __Supplementary Figure 3__ Example stimuli for the localiser scan showing faces, objects, manmade scenes and natural scenes. Manmade and natural scenes formed one block type encompassing scenes as a whole.
 
@@ -53,7 +53,7 @@ __Supplementary Figure 3__ Example stimuli for the localiser scan showing faces,
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207367638-4ba457d8-7915-45d3-bc52-8b64398b7d36.jpg" width="700">
-<p/>
+</p>
 
 __Supplementary Figure 4__ Defining the FFA in all participants. The two leftmost images depict the current view, with images taken from underneath the ventral surface. The left and right image of each pair show the left and right hemispheres respectively. The images S1-S9 show the FFA definition in each participant (the region surrounded by the black border). The statistical maps show the face-selective regions defined by the contrast faces > objects + scenes that survived FWE correction. Maps show the z-values of the contrasts.  
 
@@ -61,7 +61,7 @@ __Supplementary Figure 4__ Defining the FFA in all participants. The two leftmos
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/207368151-d2c2bd99-0301-4467-a021-f701dcd09e25.JPG" width="700">
-<p/>
+</p>
 
 __Supplementary Figure 5__ Violin plots to show the distribution of responses to faces (red), objects
 (blue) and scenes (green) compared to baseline (t-value of the contrast). (A-C) The responses in
