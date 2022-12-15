@@ -84,21 +84,21 @@ Email: [ryan.elson@nottingham.ac.uk](ryan.elson@nottingham.ac.uk)
 <br>
 
 ## References  
-Bao, P., She, L., McGill, M., & Tsao, D. Y. (2020). A map of object space in primate inferotemporal cortex. Nature, 583(7814), 103-108. [DOI](https://doi.org/10.1038/s41586-020-2350-5)  
+Bao, P., She, L., McGill, M., & Tsao, D. Y. (2020). A map of object space in primate inferotemporal cortex. Nature, 583(7814), 103-108. [[DOI]](https://doi.org/10.1038/s41586-020-2350-5) 
 
-Carlin, J. D., & Kriegeskorte, N. (2017). Adjudicating between face-coding models with individual-face fMRI responses. PLoS computational biology, 13(7), e1005604. [DOI](https://doi.org/10.1371/journal.pcbi.1005604)  
+Carlin, J. D., & Kriegeskorte, N. (2017). Adjudicating between face-coding models with individual-face fMRI responses. PLoS computational biology, 13(7), e1005604. [[DOI]](https://doi.org/10.1371/journal.pcbi.1005604)  
 
-Chang, L., & Tsao, D. Y. (2017). The code for facial identity in the primate brain. Cell, 169(6), 1013-1028. [DOI](https://doi.org/10.1016/j.cell.2017.05.011)  
+Chang, L., & Tsao, D. Y. (2017). The code for facial identity in the primate brain. Cell, 169(6), 1013-1028. [[DOI]](https://doi.org/10.1016/j.cell.2017.05.011)  
 
-McKone, E., Jeffery, L., Boeing, A., Clifford, C. W., & Rhodes, G. (2014). Face identity aftereffects increase monotonically with adaptor extremity over, but not beyond, the range of natural faces. Vision Research, 98, 1-13. [DOI](https://doi.org/10.1016/j.visres.2014.01.007)  
+McKone, E., Jeffery, L., Boeing, A., Clifford, C. W., & Rhodes, G. (2014). Face identity aftereffects increase monotonically with adaptor extremity over, but not beyond, the range of natural faces. Vision Research, 98, 1-13. [[DOI]](https://doi.org/10.1016/j.visres.2014.01.007)  
 
-Nagle, F., Griffin, H., Johnston, A., McOwan, P. (2013). Techniques for Mimicry and Identity Blending Using Morph Space PCA, in: Park, J.-I., Kim, J. (Eds.), Computer Vision - ACCV 2012 Workshops, Lecture Notes in Computer Science. Springer, Berlin, Heidelberg, pp. 296–307. [DOI](https://doi.org/10.1007/978-3-642-37484-5_25)  
+Nagle, F., Griffin, H., Johnston, A., McOwan, P. (2013). Techniques for Mimicry and Identity Blending Using Morph Space PCA, in: Park, J.-I., Kim, J. (Eds.), Computer Vision - ACCV 2012 Workshops, Lecture Notes in Computer Science. Springer, Berlin, Heidelberg, pp. 296–307. [[DOI]](https://doi.org/10.1007/978-3-642-37484-5_25)  
 
-Parvizi, J., Jacques, C., Foster, B. L., Withoft, N., Rangarajan, V., Weiner, K. S., & Grill-Spector, K. (2012). Electrical stimulation of human fusiform face-selective regions distorts face perception. Journal of Neuroscience, 32(43), 14915-14920. [DOI](https://doi.org/10.1523/JNEUROSCI.2609-12.2012)  
+Parvizi, J., Jacques, C., Foster, B. L., Withoft, N., Rangarajan, V., Weiner, K. S., & Grill-Spector, K. (2012). Electrical stimulation of human fusiform face-selective regions distorts face perception. Journal of Neuroscience, 32(43), 14915-14920. [[DOI]](https://doi.org/10.1523/JNEUROSCI.2609-12.2012)  
 
-Rhodes, G., Brennan, S., & Carey, S. (1987). Identification and ratings of caricatures: Implications for mental representations of faces. Cognitive psychology, 19(4), 473-497. [DOI](https://doi.org/10.1016/0010-0285(87)90016-8)  
+Rhodes, G., Brennan, S., & Carey, S. (1987). Identification and ratings of caricatures: Implications for mental representations of faces. Cognitive psychology, 19(4), 473-497. [[DOI]](https://doi.org/10.1016/0010-0285(87)90016-8)  
 
-Valentine, T. (1991). A unified account of the effects of distinctiveness, inversion, and race in face recognition. The Quarterly Journal of Experimental Psychology Section A, 43(2), 161-204. [DOI](https://doi.org/10.1080/14640749108400966)  
+Valentine, T. (1991). A unified account of the effects of distinctiveness, inversion, and race in face recognition. The Quarterly Journal of Experimental Psychology Section A, 43(2), 161-204. [[DOI]](https://doi.org/10.1080/14640749108400966)  
 
 
 
