@@ -1,6 +1,10 @@
 # Additional materials for EPS poster presentation, January 2023
 Thank you for taking the time to view our poster and for following the link to the supplementary materials.
 
+
+## Study accepted for publication ... watch this space!
+Excited to say this study has recently been provisionally accepted for publication in Frontiers of Psychology, click [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1035524/abstract) to view the abstract and to be notified when the paper is published.
+
 ## PCA space demonstrations
 These animations depict the first 3 dimension of a face space constructed using principal component analysis (PCA). At the centre of space is the average face. Scaling along each of the components we can see how the face changes in shape and texture from average, with increasing distance from the average magnifying this difference. The ‘high_caric’ version shows how faces can become heavily caricatured simply by increasing the scaling factor applied to the weights on each component.
 
